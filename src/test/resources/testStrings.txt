@@ -1,0 +1,9 @@
+{{(<>[])}}
+<[]{}()>
+<some[random]<text>(here)>
+<and>(there)
+<>([)
+<Another>{unbalanced}(
+]yet(another)
+<and>yet(another[one)
+<two>{pairs}before.mismatch(
